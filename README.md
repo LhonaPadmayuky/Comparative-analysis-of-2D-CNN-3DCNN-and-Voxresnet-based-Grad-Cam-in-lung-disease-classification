@@ -73,10 +73,10 @@ To enhance transparency, **Grad-CAM** was applied to highlight critical lung reg
 | 3D VoxResNet   | **79%**         | **82%**         |
 
 ### Charts
-![Accuracy Chart](<img width="403" height="672" alt="image" src="https://github.com/user-attachments/assets/16389306-3642-42ad-9b11-3eb3ea14b9c6" />
-)
-![Classification Report](<img width="492" height="708" alt="image" src="https://github.com/user-attachments/assets/03f3a125-ba98-4f26-bcc4-0bf6e6e1d292" />
-)
+<img width="403" height="672" alt="image" src="https://github.com/user-attachments/assets/16389306-3642-42ad-9b11-3eb3ea14b9c6" />
+
+<img width="492" height="708" alt="image" src="https://github.com/user-attachments/assets/03f3a125-ba98-4f26-bcc4-0bf6e6e1d292" />
+
 
 ---
 
