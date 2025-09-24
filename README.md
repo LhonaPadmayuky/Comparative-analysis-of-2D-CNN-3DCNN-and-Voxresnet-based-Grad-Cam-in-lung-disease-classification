@@ -16,7 +16,7 @@ It explores **2D CNN, 3D CNN, and 3D VoxResNet** architectures, and integrates *
 
 Dataset size after preprocessing & augmentation: **13,440 CT slices**
 
-##Overall Flow 
+## Overall Flow 
 
 <img width="807" height="408" alt="image" src="https://github.com/user-attachments/assets/bc60259e-942d-4470-98e2-0a107ee4afca" />
 
