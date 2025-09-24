@@ -21,7 +21,7 @@ Dataset size after preprocessing & augmentation: **13,440 CT slices**
 <img width="807" height="408" alt="image" src="https://github.com/user-attachments/assets/bc60259e-942d-4470-98e2-0a107ee4afca" />
 
 
-### Sample Images
+## Sample Images
 <img width="1052" height="521" alt="image" src="https://github.com/user-attachments/assets/d925fdcc-38a6-4569-88ac-e2e5a51c189b" />
 
 
