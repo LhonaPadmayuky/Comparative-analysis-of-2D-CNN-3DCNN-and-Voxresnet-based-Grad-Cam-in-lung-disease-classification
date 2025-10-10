@@ -98,11 +98,4 @@ To enhance transparency, **Grad-CAM** was applied to highlight critical lung reg
 git clone https://github.com/your-username/lung-disease-classification.git
 cd lung-disease-classification
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Run training
-python train.py
-
-# Run testing
-python test.py
